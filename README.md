@@ -51,7 +51,7 @@ Requirements
   4. Collin‑Dufresne & Goldstein (2001) – dynamic leverage barrier.
   5. Duffie & Lando (2001) – incomplete information.
   6. Hawkes (1971) – self‑exciting point processes for contagion.
-
+```
 .
 ├── hawkes_merton_model.py      # Main model class and utilities
 ├── data_loader.py             # MarketDataExtractor50
@@ -60,7 +60,7 @@ Requirements
 ├── LICENSE
 └── notebooks/
     └── demo.ipynb             # Interactive walkthrough
-
+```
 ```bash
 python hawkes_merton_model.py
 ```
